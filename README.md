@@ -1,6 +1,6 @@
 # m&ms
 
-This is the repository that contains source code for the [m&ms website](https://mnms.github.io).
+This is the repository that contains source code for the [m&ms website](https://mnms-project.github.io).
 
 If you find m&ms useful for your work please cite:
 ```
